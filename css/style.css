@@ -1,0 +1,84 @@
+#boton_verde
+{
+    color: rgb(21, 206, 21);
+}
+
+#cuadros
+{
+    display: flex;
+    justify-items: center;
+      
+}
+#card1
+{
+    margin-left: 270px;
+
+    padding: 40px
+    
+}
+#card2
+{
+    margin-left: 5px;
+    padding: 40px
+   
+    
+}
+#card3
+{
+    margin-left: 5px;
+    padding: 40px
+}
+
+#precios
+{
+    text-align: center;
+    
+}
+
+#cajadenombre
+{
+    margin-left: 350px; 
+}
+
+
+
+#cajadenombre2
+{
+    margin-left: 200px; 
+}
+
+#tablaDePrecios
+{
+    margin-left: 343px; 
+    margin-right: 324px ;
+}
+#total_a_pagar
+{
+    margin-left: 344px; 
+    margin-right: 324px ;
+}
+
+#botonenviar
+{
+    color: rgb(21, 206, 21);
+}
+
+#botones
+{
+    display: flex;
+    margin-left: 343px; 
+    margin-right: 324px ;
+    
+}
+
+
+
+
+footer
+{
+    background-color: rgb(13, 63, 97);
+    color: white;
+    justify-items:normal
+    
+}
+
